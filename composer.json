@@ -1,0 +1,14 @@
+{
+    "name": "sir_therry_dean/5_1_composer-autoload",
+    "description": "Chapter 5-1 Composer-Autoload",
+    "authors": [
+        {
+            "name": "Thierry-68",
+            "email": "thierry.sandre68@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }    
+}
